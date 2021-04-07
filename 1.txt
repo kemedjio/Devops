@@ -4,3 +4,4 @@ second line added
 third line in this file
 line added from local
 line added from remote
+second line added from local
